@@ -1,8 +1,9 @@
+/**** add DOCTYPE ****/
 html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
-
+/**** add bracket to end ****/
 body {
   font-size: 14px;
 }
@@ -19,18 +20,18 @@ section {
   margin: 0 auto;
   width: 60%;
 }
-
+/**** add colons and semicolons ****/
 h1 {
   font-family: sans-serif;
   font-size: 2em;
 }
-
+/**** combine header 3 elements ****/
 h3 {
   font-size: 1.3em;
   padding-top: 30px;
   text-align: center;
 }
-
+/**** change .element into p ****/
 p {
   background-color: green;
   height: 100px;
