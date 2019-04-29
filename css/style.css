@@ -8,7 +8,7 @@ body {
   font-size: 14px;
 }
 
-nav {
+.nav {
   background color: yellow;
   height: 100px;
   margin-top: -10px;
