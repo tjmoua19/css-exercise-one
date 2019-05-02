@@ -8,8 +8,8 @@ body {
   font-size: 14px;
 }
 
-.nav {
-  background color: yellow;
+nav {
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
